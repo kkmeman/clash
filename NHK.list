@@ -1,9 +1,10 @@
 # NAME: NHK
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,api.nhk.jp
 DOMAIN-SUFFIX,apps.nhk.jp
 DOMAIN-SUFFIX,location-plus.nhk.jp
 DOMAIN-SUFFIX,nhk.or.jp/
 DOMAIN-SUFFIX,nhk.jp
 DOMAIN-SUFFIX,plus.nhk.jp
+DOMAIN-SUFFIX,www3.nhk.or.jp
