@@ -1,4 +1,5 @@
 # NAME: NHK
+# DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 DOMAIN-SUFFIX,api.nhk.jp
@@ -11,3 +12,4 @@ DOMAIN-SUFFIX,www3.nhk.or.jp
 DOMAIN-SUFFIX,emb.nhk.or.jp
 DOMAIN-SUFFIX,apps.nhk.or.jp
 DOMAIN-SUFFIX,login.auth.nhkid.jp
+DOMAIN-KEYWORD,nhk 
