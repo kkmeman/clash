@@ -2,5 +2,9 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 1
 # TOTAL: 2
+DOMAIN-SUFFIX,api2.hoy.tv
 DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,storage.hoy.tv
+DOMAIN-SUFFIX,display-algoad.hoy.tv
+DOMAIN-SUFFIX,ch77-live-stream.hoy.tv
 DOMAIN-KEYWORD,hoy.tv
