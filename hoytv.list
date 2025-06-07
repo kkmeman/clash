@@ -1,10 +1,15 @@
 # NAME: hoy
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
 DOMAIN-SUFFIX,api2.hoy.tv
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,storage.hoy.tv
 DOMAIN-SUFFIX,display-algoad.hoy.tv
 DOMAIN-SUFFIX,ch77-live-stream.hoy.tv
-DOMAIN-KEYWORD,hoy.tv
+DOMAIN-SUFFIX,display-t-algoad.hoy.tv
+DOMAIN-SUFFIX,ch78-live-stream.hoy.tv
+DOMAIN-SUFFIX,epg-file.hoy.tv
+DOMAIN-SUFFIX,ch76-live-stream.hoy.tv
+
+DOMAIN-KEYWORD,hoy
