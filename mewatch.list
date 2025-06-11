@@ -1,5 +1,17 @@
 # NAME: MeWatch
 
-# DOMAIN-SUFFIX: 12
-# TOTAL: 2
+
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
 DOMAIN-SUFFIX,mewatch.sg
+DOMAIN-SUFFIX,mediacorp.hb.omtrdc.net
+DOMAIN-SUFFIX,sg2-s2s.sensic.net
+DOMAIN-SUFFIX,boost-recommend.mediacorp.sg
+DOMAIN-KEYWORD,mewatch
+DOMAIN-KEYWORD,mediacorp
+
+		sb.scorecardresearch.com
+ 
+ b1.nel.goog
+	prod98.togglestatic.com
