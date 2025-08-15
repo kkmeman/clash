@@ -1,7 +1,7 @@
 # NAME: 日本媒体
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 10
-# TOTAL: 11
+# DOMAIN-SUFFIX: 11
+# TOTAL: 12
 DOMAIN-SUFFIX,amagi.tv
 DOMAIN-SUFFIX,skyperfectv.co.jp
 DOMAIN-SUFFIX,rakuten.co.jp
@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,hdex.jp
 DOMAIN-SUFFIX,vidaahub.com
 DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,regzatv.net
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-KEYWORD,rakuten
