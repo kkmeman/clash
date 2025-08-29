@@ -15,4 +15,5 @@ DOMAIN,mediaservices.cdn-apple.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,akadns.net
-PROCESS-NAME,TV
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
