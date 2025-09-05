@@ -19,10 +19,8 @@ DOMAIN-SUFFIX,akadns.net
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 IP-CIDR,17.0.0.0/8,no-resolve
-IP-CIDR,23.212.62.0/24,no-resolve
-IP-CIDR,23.215.158.0/24,no-resolve
-IP-CIDR,23.217.66.0/24,no-resolve
-IP-CIDR,23.220.84.0/24,no-resolve
+IP-CIDR,23.0.0.0/8,no-resolve
+IP-CIDR,151.101.111.0/24,no-resolve
 IP-CIDR,146.75.115.0/24,no-resolve
 IP-CIDR,72.247.96.0/24,no-resolve
 IP-CIDR,199.232.151.0/24,no-resolve
