@@ -37,6 +37,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8
 #EXTINF:-1 tvg-name="BS10スターチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png" tvg-id="jcom_120_200_4" tvg-chno="BS201" tvg-country="JP" group-title="日本 / Japan",BS10スターチャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
+#EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",tvg-id="CH.688" tvg-chno="BS234" tvg-country="JP" group-title="日本 / Japan",Green Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
 #EXTINF:-1 tvg-name="アニマックス" tvg-logo="https://i.imgur.com/jO0qUvj.png" tvg-id="AnimaxAsia.sg@Japan" tvg-chno="BS236" tvg-country="JP" group-title="日本 / Japan",アニマックス
 [NO PUBLIC STREAM]
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg" tvg-id="JSPORTS1.jp" tvg-chno="BS242" tvg-country="JP" group-title="日本 / Japan",J SPORTS 1
