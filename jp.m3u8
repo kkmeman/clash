@@ -64,7 +64,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" tvg-id="MoviePlus.jp" tvg-chno="CS240" tvg-country="JP" group-title="日本 / Japan",ムービープラス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="GAORA" tvg-logo="https://i.imgur.com/Myh0PWD.png" tvg-id="GAORASPORTS.jp" tvg-chno="CS254" tvg-country="JP" group-title="日本 / Japan",GAORA
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8
 #EXTINF:-1 tvg-name="日テレジータス" tvg-logo="https://i.imgur.com/xq1VG0E.png" tvg-id="NitteleGPlus.jp" tvg-chno="CS257" tvg-country="JP" group-title="日本 / Japan",日テレジータス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="ゴルフネットワーク" tvg-logo="https://i.imgur.com/EVd8Vvp.png" tvg-id="GolfNetwork.jp" tvg-chno="CS262" tvg-country="JP" group-title="日本 / Japan",ゴルフネットワーク
