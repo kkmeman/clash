@@ -111,3 +111,5 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-raku
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" tvg-id="rch_115" tvg-chno="rch_115" tvg-country="JP" group-title="日本 / Japan",MBSニュース
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png" tvg-id="CH.620" tvg-chno="CH.6208" tvg-country="JP" group-title="日本 / Japan",Disney Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
