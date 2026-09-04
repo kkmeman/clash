@@ -90,7 +90,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-name="Music ON TV!（エムオン）" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" tvg-id="MUSICONTV.jp" tvg-chno="CS325" tvg-country="JP" group-title="日本 / Japan",Music ON TV!（エムオン）
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" tvg-id="KayoPops.jp" tvg-chno="CS329" tvg-country="JP" group-title="日本 / Japan",歌謡ポップスチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
 #EXTINF:-1 tvg-name="キッズステーション" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" tvg-id="KidsStation.jp" tvg-chno="CS330" tvg-country="JP" group-title="日本 / Japan",キッズステーション
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/jtSYegn.png" tvg-id="NTVNEWS24.jp" tvg-chno="CS349" tvg-country="JP" group-title="日本 / Japan",日テレNEWS24
