@@ -113,3 +113,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png" tvg-id="CH.620" tvg-chno="CH.6208" tvg-country="JP" group-title="日本 / Japan",Disney Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
+#EXTINF:-1 tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png" tvg-id="スペースシャワーTV_jp" tvg-chno="スペースシャワーTV_jp" tvg-country="JP" group-title="日本 / Japan",Space Shower TV (HD)
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
