@@ -30,7 +30,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
 #EXTINF:-1 tvg-name="WOWOWプライム" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png" tvg-id="WOWOWPrime.jp" tvg-chno="BS191" tvg-country="JP" group-title="日本 / Japan",WOWOWプライム
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 #EXTINF:-1 tvg-name="WOWOWライブ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png" tvg-id="WOWOWLive.jp" tvg-chno="BS192" tvg-country="JP" group-title="日本 / Japan",WOWOWライブ
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 #EXTINF:-1 tvg-name="WOWOWシネマ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png" tvg-id="WOWOWCinema.jp" tvg-chno="BS193" tvg-country="JP" group-title="日本 / Japan",WOWOWシネマ
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://i.imgur.com/KPZiuHl.png" tvg-id="jcom_120_110_4" tvg-chno="BS200" tvg-country="JP" group-title="日本 / Japan",BS10
@@ -42,7 +42,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
 #EXTINF:-1 tvg-name="アニマックス" tvg-logo="https://i.imgur.com/jO0qUvj.png" tvg-id="AnimaxAsia.sg@Japan" tvg-chno="BS236" tvg-country="JP" group-title="日本 / Japan",アニマックス
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg" tvg-id="JSPORTS1.jp" tvg-chno="BS242" tvg-country="JP" group-title="日本 / Japan",J SPORTS 1
-[NO PUBLIC STREAM]
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg" tvg-id="JSPORTS2.jp" tvg-chno="BS243" tvg-country="JP" group-title="日本 / Japan",J SPORTS 2
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg" tvg-id="JSPORTS3.jp" tvg-chno="BS244" tvg-country="JP" group-title="日本 / Japan",J SPORTS 3
