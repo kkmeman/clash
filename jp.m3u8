@@ -127,3 +127,5 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs10#.m3u8
 #EXTINF:-1 tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png" tvg-id="CH.572" tvg-chno="CH.572" tvg-country="JP" group-title="日本 / Japan",TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
+#EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tabi_channel.png" tvg-id="CH.544" tvg-chno="CH.544" tvg-country="JP" group-title="日本 / Japan",Tabi Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
