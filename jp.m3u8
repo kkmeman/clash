@@ -145,3 +145,5 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png" tvg-id="CH.668" tvg-chno="CH.668" tvg-country="JP" group-title="日本 / Japan",Cartoon Network
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs25#.m3u8
+#EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png" tvg-id="CH.613" tvg-chno="CH.613" tvg-country="JP" group-title="日本 / Japan",Fuji TV NEXT
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
