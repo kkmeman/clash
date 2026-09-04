@@ -121,3 +121,5 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/discovery_channel.png" tvg-id="CH.676" tvg-chno="CH.676" tvg-country="JP" group-title="日本 / Japan",Discovery Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8
+#EXTINF:-1 tvg-name="History" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/history.png" tvg-id="rch_43" tvg-chno="rch_43" tvg-country="JP" group-title="日本 / Japan",History
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8
