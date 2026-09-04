@@ -119,3 +119,5 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
 #EXTINF:-1 tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png" tvg-id="CH.639" tvg-chno="CH.639" tvg-country="JP" group-title="日本 / Japan",Music Japan TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/discovery_channel.png" tvg-id="CH.676" tvg-chno="CH.676" tvg-country="JP" group-title="日本 / Japan",Discovery Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8
