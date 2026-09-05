@@ -67,7 +67,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
 #EXTINF:-1 tvg-name="ファミリー劇場" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" tvg-id="FamilyGekijyo.jp" tvg-chno="CS293" tvg-country="JP" group-title="日本 / Japan",ファミリー劇場
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
-#EXTINF:-1 tvg-name="ホームドラマチャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" tvg-id="HomeDramaChannel.jp" tvg-chno="CS294" tvg-country="JP" group-title="日本 / Japan",ホームドラマチャンネル
+#EXTINF:-1 tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png" tvg-id="CH.628" tvg-chno="CH.628" tvg-country="JP" group-title="日本 / Japan",Eisei Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8
 #EXTINF:-1 tvg-name="チャンネル銀河" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png" tvg-id="ChannelGinga.jp" tvg-chno="CS305" tvg-country="JP" group-title="日本 / Japan",チャンネル銀河
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
@@ -127,5 +127,4 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
 #EXTINF:-1 tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-chno="TAKARAZUKASKYSTAGE.jp" tvg-country="JP" group-title="日本 / Japan",Takarazuka Sky Stage
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
-#EXTINF:-1 tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png" tvg-id="CH.628" tvg-chno="CH.628" tvg-country="JP" group-title="日本 / Japan",Eisei Gekijo
-https://akariko-bck1.sankuria.sbs/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+
