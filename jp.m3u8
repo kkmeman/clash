@@ -52,7 +52,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
 #EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png" tvg-id="NihonEigaSenmonChannel.jp" tvg-chno="BS255" tvg-country="JP" group-title="日本 / Japan",日本映画専門チャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
 #EXTINF:-1 tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" tvg-id="ShopChannel.jp" tvg-chno="CS055" tvg-country="JP" group-title="日本 / Japan",ショップチャンネル
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd09#.m3u8
 #EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png" tvg-id="ToeiChannel.jp" tvg-chno="CS218" tvg-country="JP" group-title="日本 / Japan",東映チャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
 #EXTINF:-1 tvg-name="チャンネルNECO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" tvg-id="ChannelNECO.jp" tvg-chno="CS223" tvg-country="JP" group-title="日本 / Japan",チャンネルNECO
