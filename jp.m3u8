@@ -33,8 +33,6 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 #EXTINF:-1 tvg-name="WOWOWシネマ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png" tvg-id="WOWOWCinema.jp" tvg-chno="BS193" tvg-country="JP" group-title="日本 / Japan",WOWOWシネマ
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
-#EXTINF:-1 tvg-name="BS10" tvg-logo="https://i.imgur.com/KPZiuHl.png" tvg-id="jcom_120_110_4" tvg-chno="BS200" tvg-country="JP" group-title="日本 / Japan",BS10
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8
 #EXTINF:-1 tvg-name="BS10スターチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png" tvg-id="jcom_120_200_4" tvg-chno="BS201" tvg-country="JP" group-title="日本 / Japan",BS10スターチャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",tvg-id="CH.688" tvg-chno="BS234" tvg-country="JP" group-title="日本 / Japan",Green Channel
@@ -77,7 +75,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
 #EXTINF:-1 tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png" tvg-id="LaLaTV.jp" tvg-chno="CS314" tvg-country="JP" group-title="日本 / Japan",LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8
-#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" tvg-id="KayoPops.jp" tvg-chno="CS329" tvg-country="JP" group-title="日本 / Japan",歌謡ポップスチャンネル
+#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png" tvg-id="KayoPops.jp" tvg-chno="CS329" tvg-country="JP" group-title="日本 / Japan",歌謡ポップスチャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
 #EXTINF:-1 tvg-name="キッズステーション" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png" tvg-id="KidsStation.jp" tvg-chno="CS330" tvg-country="JP" group-title="日本 / Japan",キッズステーション
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
