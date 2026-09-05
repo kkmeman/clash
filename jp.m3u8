@@ -13,6 +13,10 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
 #EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="日本 / Japan",フジテレビ
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png" tvg-id="TOKYO・MX2_jp" tvg-chno="TOKYO・MX2_jp" tvg-country="JP" group-title="日本 / Japan",TOKYO MX2 (HD 720p)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png" tvg-id="NHKBS.jp" tvg-chno="BS101" tvg-country="JP" group-title="日本 / Japan",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 #EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="https://i.imgur.com/uvPpFo5.png" tvg-id="NHKBSP4K.jp" tvg-chno="BS4K101" tvg-country="JP" group-title="日本 / Japan",NHK BSP4K
@@ -35,10 +39,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 #EXTINF:-1 tvg-name="BS10スターチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png" tvg-id="jcom_120_200_4" tvg-chno="BS201" tvg-country="JP" group-title="日本 / Japan",BS10スターチャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
-#EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",tvg-id="CH.688" tvg-chno="BS234" tvg-country="JP" group-title="日本 / Japan",Green Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
-#EXTINF:-1 tvg-name="アニマックス" tvg-logo="https://i.imgur.com/jO0qUvj.png" tvg-id="AnimaxAsia.sg@Japan" tvg-chno="BS236" tvg-country="JP" group-title="日本 / Japan",アニマックス
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
+
+
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_1.png" tvg-id="JSPORTS1.jp" tvg-chno="BS242" tvg-country="JP" group-title="日本 / Japan",J SPORTS 1
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_2.png" tvg-id="JSPORTS2.jp" tvg-chno="BS243" tvg-country="JP" group-title="日本 / Japan",J SPORTS 2
@@ -49,20 +51,22 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
 #EXTINF:-1 tvg-name="釣りビジョン" tvg-logo="https://i.imgur.com/Yc7JvSK.png" tvg-id="FishingVision.jp" tvg-chno="BS251" tvg-country="JP" group-title="日本 / Japan",釣りビジョン
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
-#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png" tvg-id="NihonEigaSenmonChannel.jp" tvg-chno="BS255" tvg-country="JP" group-title="日本 / Japan",日本映画専門チャンネル
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png" tvg-id="TOKYO・MX2_jp" tvg-chno="TOKYO・MX2_jp" tvg-country="JP" group-title="日本 / Japan",TOKYO MX2 (HD 720p)
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
-#EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png" tvg-id="ToeiChannel.jp" tvg-chno="CS218" tvg-country="JP" group-title="日本 / Japan",東映チャンネル
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
-#EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png" tvg-id="MoviePlus.jp" tvg-chno="CS240" tvg-country="JP" group-title="日本 / Japan",ムービープラス
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
 #EXTINF:-1 tvg-name="GAORA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png" tvg-id="GAORASPORTS.jp" tvg-chno="CS254" tvg-country="JP" group-title="日本 / Japan",GAORA
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
 #EXTINF:-1 tvg-name="日テレジータス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png" tvg-id="NitteleGPlus.jp" tvg-chno="CS257" tvg-country="JP" group-title="日本 / Japan",日テレジータス
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs02#.m3u8
 #EXTINF:-1 tvg-name="ゴルフネットワーク" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png" tvg-id="GolfNetwork.jp" tvg-chno="CS262" tvg-country="JP" group-title="日本 / Japan",ゴルフネットワーク
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8
+#EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",tvg-id="CH.688" tvg-chno="BS234" tvg-country="JP" group-title="日本 / Japan",Green Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
+#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png" tvg-id="NihonEigaSenmonChannel.jp" tvg-chno="BS255" tvg-country="JP" group-title="日本 / Japan",日本映画専門チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
+
+#EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png" tvg-id="ToeiChannel.jp" tvg-chno="CS218" tvg-country="JP" group-title="日本 / Japan",東映チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
+#EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png" tvg-id="MoviePlus.jp" tvg-chno="CS240" tvg-country="JP" group-title="日本 / Japan",ムービープラス
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
+
 #EXTINF:-1 tvg-name="時代劇専門チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png" tvg-id="JidaigekiSenmonChannel.jp" tvg-chno="CS292" tvg-country="JP" group-title="日本 / Japan",時代劇専門チャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
 #EXTINF:-1 tvg-name="ファミリー劇場" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" tvg-id="FamilyGekijyo.jp" tvg-chno="CS293" tvg-country="JP" group-title="日本 / Japan",ファミリー劇場
@@ -79,8 +83,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
 #EXTINF:-1 tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" tvg-chno="CH 106" tvg-country="JP" group-title="日本 / Japan",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
 #EXTINF:-1 tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="rch_47" tvg-chno="rch_47" tvg-country="JP" group-title="日本 / Japan",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="rch_108" tvg-chno="rch_108" tvg-country="JP" group-title="日本 / Japan",FNNプライムオンライン
@@ -121,6 +124,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png" tvg-id="CH.668" tvg-chno="CH.668" tvg-country="JP" group-title="日本 / Japan",Cartoon Network
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs25#.m3u8
+#EXTINF:-1 tvg-name="アニマックス" tvg-logo="https://i.imgur.com/jO0qUvj.png" tvg-id="AnimaxAsia.sg@Japan" tvg-chno="BS236" tvg-country="JP" group-title="日本 / Japan",アニマックス
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
 #EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png" tvg-id="CH.613" tvg-chno="CH.613" tvg-country="JP" group-title="日本 / Japan",Fuji TV NEXT
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
 #EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png" tvg-id="CH.661" tvg-chno="CH.661" tvg-country="JP" group-title="日本 / Japan",Home Drama Channel
