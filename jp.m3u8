@@ -56,7 +56,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd09#.m3u8
 #EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png" tvg-id="ToeiChannel.jp" tvg-chno="CS218" tvg-country="JP" group-title="日本 / Japan",東映チャンネル
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8
 #EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png" tvg-id="MoviePlus.jp" tvg-chno="CS240" tvg-country="JP" group-title="日本 / Japan",ムービープラス
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
 #EXTINF:-1 tvg-name="GAORA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png" tvg-id="GAORASPORTS.jp" tvg-chno="CS254" tvg-country="JP" group-title="日本 / Japan",GAORA
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
 #EXTINF:-1 tvg-name="日テレジータス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png" tvg-id="NitteleGPlus.jp" tvg-chno="CS257" tvg-country="JP" group-title="日本 / Japan",日テレジータス
