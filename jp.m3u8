@@ -125,4 +125,5 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs25#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
 #EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png" tvg-id="CH.661" tvg-chno="CH.661" tvg-country="JP" group-title="日本 / Japan",Home Drama Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
- 
+#EXTINF:-1 tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-chno="TAKARAZUKASKYSTAGE.jp" tvg-country="JP" group-title="日本 / Japan",Takarazuka Sky Stage
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
