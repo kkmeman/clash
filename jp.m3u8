@@ -127,3 +127,5 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
 #EXTINF:-1 tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-chno="TAKARAZUKASKYSTAGE.jp" tvg-country="JP" group-title="日本 / Japan",Takarazuka Sky Stage
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
+#EXTINF:-1 tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png" tvg-id="CH.628" tvg-chno="CH.628" tvg-country="JP" group-title="日本 / Japan",Eisei Gekijo
+https://akariko-bck1.sankuria.sbs/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
