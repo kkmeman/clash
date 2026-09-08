@@ -237,6 +237,12 @@ http://162.19.243.184:8080/715/manifest.m3u8?token=S76379DB41
 http://162.19.243.184:8080/712/manifest.m3u8?token=S76379DB41
 #EXTINF:-1 tvg-name="Россия XXX"  tvg-id="Россия XXX" group-title="etc",Россия XXX
 http://162.19.243.184:8080/710/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Blue Hustler"  tvg-id="Россия Blue Hustler" group-title="etc",Россия Blue Hustler
+http://162.19.243.184:8080/703/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Barely legal"  tvg-id="Россия Barely legal" group-title="etc",Россия Barely legal
+http://162.19.243.184:8080/711/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Vixen"  tvg-id="Россия Vixen" group-title="etc",Россия Vixen
+http://162.19.243.184:8080/708/manifest.m3u8?token=S76379DB41
 
 #Drama 
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV Star Trek (720p) 
