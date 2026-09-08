@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,rch01e-alive-hls.akamaized.net
 DOMAIN-SUFFIX,ads.its-newid.net
 DOMAIN-SUFFIX,netgenx.site 
 DOMAIN-KEYWORD,netgenx 
-DOMAIN-KEYWORD,tvtokyo
+DOMAIN-KEYWORD,mov3
 IP-CIDR,103.0.0.0/8,no-resolve
 IP-CIDR,14.225.0.0/16,no-resolve
 IP-CIDR,185.27.0.0/16,no-resolve
