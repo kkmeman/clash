@@ -13,6 +13,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
 #EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" tvg-country="JP" group-title="日本 / Japan",テレビ東京
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
+#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" tvg-country="JP" group-title="日本 / Japan",テレビ東京
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png" tvg-id="TOKYO・MX_jp" tvg-chno="TOKYO・MX_jp" tvg-country="JP" group-title="日本 / Japan",TOKYO MX1
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
