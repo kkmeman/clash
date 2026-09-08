@@ -5,6 +5,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
 #EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" tvg-country="JP" group-title="日本 / Japan",日本テレビ
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="日本 / Japan",TBSテレビ
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
 #EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="日本 / Japan",フジテレビ
@@ -19,6 +20,9 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Religious" referrer="http://japan.cgntv.net/HD_player_jp.html",CGNTV Japan (1080p)
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png" tvg-id="NHKBS.jp" tvg-chno="BS101" tvg-country="JP" group-title="日本 / Japan",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 #EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="https://i.imgur.com/uvPpFo5.png" tvg-id="NHKBSP4K.jp" tvg-chno="BS4K101" tvg-country="JP" group-title="日本 / Japan",NHK BSP4K
