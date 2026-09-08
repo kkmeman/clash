@@ -1,15 +1,25 @@
 #EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1 
 #Tokyo 
-#EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-name="NHK東京・総合" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKG.png", CH-01 NHK G http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHK G (Sub Ch.)" tvg-name="NHK東京・総合Sub" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKG.png", CH-01 NHK G (Sub Ch.) http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls 
-#EXTINF:-1 group-title="Tokyo" tvg-id="JOABDTV.jp" tvg-name="NHK東京・教育" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKE.png", CH-02 NHK E http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-name="日本テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/Nippon_TV.png", CH-04 日本テレビ http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-name="テレビ朝日" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TV_Asahi.png", CH-05 テレビ朝日 http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-name="TBS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TBS.png", CH-06 ＴＢＳ http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-name="テレビ東京" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TV_Tokyo.png", CH-07 テレビ東京 http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-name="フジテレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/Fuji_TV.png", CH-08 フジテレビ http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX1.jp" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TokyoMX.png", CH-091 TOKYO MX1 http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying 
-#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO MX2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TokyoMX.png", CH-092 TOKYO MX2 http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls 
+#EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-name="NHK東京・総合" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKG.png", CH-01 NHK G 
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK G (Sub Ch.)" tvg-name="NHK東京・総合Sub" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKG.png", CH-01 NHK G (Sub Ch.) 
+http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls 
+#EXTINF:-1 group-title="Tokyo" tvg-id="JOABDTV.jp" tvg-name="NHK東京・教育" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKE.png", CH-02 NHK E 
+http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-name="日本テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/Nippon_TV.png", CH-04 日本テレビ 
+http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-name="テレビ朝日" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TV_Asahi.png", CH-05 テレビ朝日 
+http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-name="TBS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TBS.png", CH-06 ＴＢＳ 
+http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-name="テレビ東京" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TV_Tokyo.png", CH-07 テレビ東京 
+http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-name="フジテレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/Fuji_TV.png", CH-08 フジテレビ 
+http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX1.jp" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TokyoMX.png", CH-091 TOKYO MX1 
+http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying 
+#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO MX2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TokyoMX.png", CH-092 TOKYO MX2 
+http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls 
 #Osaka 
 #EXTINF:-1 group-title="Osaka" tvg-id="nhkgosaka" tvg-name="NHK総合・大阪" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKGO.png", CH-02 NHK G 大阪 http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying 
 #EXTINF:-1 group-title="Osaka" tvg-id="毎日テレビ_jp" tvg-name="毎日テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/MBS.png", CH-04 毎日放送 http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying 
