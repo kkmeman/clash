@@ -205,7 +205,39 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8 
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="http://cohzi1516.s322.xrea.com/usa/bbcfood.png" tvg-id="BBCFood.us" group-title="etc",BBC Food 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
-#EXTINF:-1 tvg-name="BBC Home" tvg-logo="http://cohzi1516.s322.xrea.com/usa/bbchome.png" tvg-id="BBCHome.us" group-title="etc",BBC Home 
+#EXTINF:-1 tvg-name="Россия Brazzers TV"  tvg-id="Россия Brazzers TV" group-title="etc",Россия Brazzers TV
+http://162.19.243.184:8080/705/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Penthouse Gold HD"  tvg-id="Россия Penthouse Gold HD" group-title="etc",Россия Penthouse Gold HD
+http://162.19.243.184:8080/707/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Dorcel TV HD"  tvg-id="Россия Dorcel TV HD" group-title="etc",Россия Dorcel TV HD
+http://162.19.243.184:8080/701/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Club Sweethearts"  tvg-id="Россия Club Sweethearts" group-title="etc",Россия Club Sweethearts
+http://162.19.243.184:8080/713/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Private TV"  tvg-id="Россия Private TV" group-title="etc",Россия Private TV
+http://162.19.243.184:8080/704/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Vivid Red HD"  tvg-id="Россия Vivid Red HD" group-title="etc",Россия Vivid Red HD
+http://162.19.243.184:8080/709/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Hustler HD"  tvg-id="Россия Hustler HD" group-title="etc",Россия Hustler HD
+http://162.19.243.184:8080/714/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Redlight HD"  tvg-id="Россия Redlight HD" group-title="etc",Россия Redlight HD
+http://162.19.243.184:8080/702/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Центральное ТВ RU"  tvg-id="Центральное ТВ RU" group-title="etc",Центральное ТВ RU
+http://162.19.243.184:8080/716/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="СуперГерои HD"  tvg-id="СуперГерои HD" group-title="etc",СуперГерои HD
+http://162.19.243.184:8080/706/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Asshole Fever Россия"  tvg-id="Asshole Fever Россия" group-title="etc",Asshole Fever Россия
+http://233d3515.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/12169/manifest.m3u8
+#EXTINF:-1 tvg-name="ПЕPBЫЙ FHD"  tvg-id="ПЕPBЫЙ FHD" group-title="etc",ПЕPBЫЙ FHD
+http://233d3515.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6215/manifest.m3u8
+#EXTINF:-1 tvg-name="Россия 1 FHD"  tvg-id="Россия 1 FHD" group-title="etc",Россия 1 FHD
+http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
+#EXTINF:-1 tvg-name="Россия BLACKED"  tvg-id="Россия BLACKED" group-title="etc",Россия BLACKED
+http://162.19.243.184:8080/715/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия Anal Teen Angels"  tvg-id="Россия Anal Teen Angels" group-title="etc",Россия Anal Teen Angels
+http://162.19.243.184:8080/712/manifest.m3u8?token=S76379DB41
+#EXTINF:-1 tvg-name="Россия XXX"  tvg-id="Россия XXX" group-title="etc",Россия XXX
+http://162.19.243.184:8080/710/manifest.m3u8?token=S76379DB41
+
 #Drama 
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV Star Trek (720p) 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
