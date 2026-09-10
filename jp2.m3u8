@@ -22,7 +22,7 @@ http://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls 
 #Osaka 
 #EXTINF:-1 group-title="Osaka" tvg-id="nhkgosaka" tvg-name="NHK総合・大阪" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKGO.png", CH-02 NHK G 大阪 
-http://haru.charandom.blog/stream/jp/nhk_gosaka/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="毎日テレビ_jp" tvg-name="毎日テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/MBS.png", CH-04 毎日放送 
 http://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="abc" tvg-name="ABCテレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/ABC.png", CH-06 朝日放送 
@@ -39,43 +39,43 @@ http://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls 
 #BS 
 #EXTINF:-1 group-title="BS" tvg-id="NHKBS.jp" tvg-name="NHK・BS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101.png", BS-101 NHK BS 
-http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying 
+http://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="NHK BS(Sub Ch.)" tvg-name="NHK・BS(Sub Ch.)" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101.png", BS-102 NHK BS(Sub Ch.) 
 http://haru.charandom.blog/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-name="NHK・BSP" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101-2.png", BS-101 NHK BSP4K 
-http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying 
+http://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-name="ＢＳ日テレ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-141.png", BS-141 BS日テレ 
-http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying 
+http://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-name="ＢＳ朝日１" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-151.jpg", BS-151 BS朝日 
-http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying 
+http://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-name="ＢＳ－ＴＢＳ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-161.png", BS-161 BS-TBS 
-http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying 
+http://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo" tvg-name="BSテレ東" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-171.png", BS-171 BSテレ東 
-http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying 
+http://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-name="ＢＳフジ・181" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-181.png", BS-181 BSフジ 
-http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying 
+http://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="WOWOW Plus" tvg-name="ＷＯＷＯＷプラス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-252.png",WOWOW プラス 
 http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-name="ＷＯＷＯＷプライム" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-191.png", BS-191 WOWOW プライム 
-http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying 
+http://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-name="ＷＯＷＯＷライブ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-192.png", BS-192 WOWOW ライブ 
-http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying 
+http://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-name="ＷＯＷＯＷシネマ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-193.png", BS-193 WOWOW シネマ 
-http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying 
+http://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls 
+#EXTINF:-1 group-title="BS" tvg-id="jcom_120_200_4" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-201.png", BS-201 BS10 PREMIUM 
+http://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="BS 10" tvg-name="japanet" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-200.png", BS-200 BS10 
 http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls 
-#EXTINF:-1 group-title="BS" tvg-id="jcom_120_200_4" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-201.png", BS-201 BS10 PREMIUM 
-http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying 
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-name="BS11 イレブン" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-211.png", BS-211 BS11イレブン 
 http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-name="BS12 トゥエルビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-222.png", BS-222 BS12トゥエルビ 
 http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-name="グリーンチャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-234.jpg", BS-234 グリーンチャンネル 
-http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying 
+http://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-name="アニマックス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-236.png", BS-236 BSアニマックス 
-http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying 
+http://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-name="J SPORTS 1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-242.png", BS-242 JSPORTS 1 
-http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying 
+http://haru.charandom.blog/stream/jp/jsports_1/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-name="J SPORTS 2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-243.png", BS-243 JSPORTS 2 
 http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying 
 #EXTINF:-1 group-title="BS" tvg-id="js3" tvg-name="J SPORTS 3" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-244.png", BS-244 JSPORTS 3 
