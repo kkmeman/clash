@@ -199,24 +199,175 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying 
 #EXTINF:-1 group-title="CS" tvg-id="Weathernews" tvg-name="ウェザーニュースLiVE" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/Weathernews.png", Weathernews 
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8 
-#etc 
-#EXTINF:-1 group-title="etc" tvg-id="shopch.jp" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-055.jpg", CS-055 Shop Channel 
-https://stream3.shopch.jp/HLS/master.m3u8 #EXTINF:-1 group-title="etc" tvg-id="QVC.jp" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-161.png", CS-161 QVC Japan 
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8 
-#EXTINF:-1 group-title="etc" tvg-id="gakitsuka" tvg-logo="http://cohzi1516.s322.xrea.com/logo/ETC/YOSHIMOTO.png", 吉本興業 (海外) 
-https://hamada.gaki-no-tsukai.stream/hls/test.m3u8 
-#EXTINF:-1 group-title="etc" tvg-id="BloombergTVAsia.hk" tvg-logo="http://cohzi1516.s322.xrea.com/logo/ETC/jp-bloomberg.jpg",Bloomberg TV Asia 
-https://bloomberg.com/media-manifest/streams/asia.m3u8 
-#EXTINF:-1 group-title="etc" tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="http://cohzi1516.s322.xrea.com/logo/ETC/jp-bloomberg.jpg",Bloomberg TV Asia Live Event 
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8 
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="http://cohzi1516.s322.xrea.com/usa/bloomberg.png" tvg-id="BloombergTelevision.us" group-title="etc",Bloomberg 
-https://bloomberg.com/media-manifest/streams/us.m3u8 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="http://cohzi1516.s322.xrea.com/usa/abcnews.png" tvg-id="ABCNews.us" group-title="etc",ABC News 
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8 
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="http://cohzi1516.s322.xrea.com/usa/nbcnews.png" tvg-id="NBCNewsNow.us" group-title="etc",NBC News 
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8 
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="http://cohzi1516.s322.xrea.com/usa/bbcfood.png" tvg-id="BBCFood.us" group-title="etc",BBC Food 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
+#ラクテンTV
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_108.png",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_115.png",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_101" tvg-name="日テレNEWSセレクト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_101.png",日テレNEWSセレクト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png",共同通信News
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/newsworld.png",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_54" tvg-name="オリコンニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_54.png",オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_83" tvg-name="STOCK VOICE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/stock_voice.png",STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_70" tvg-name="Bloomberg TV+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bloomberg_tv.png",Bloomberg TV+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_90" tvg-name="Euronews" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/euronews.png",Euronews
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/reuters_60.png",Reuters 60
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png",TOP BARÇA
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_97" tvg-name="NTV Pro Wrestling" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_pro_wrestling.png",NTV Pro Wrestling
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_48" tvg-name="刺激ストロングSPORTS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_48.png",刺激ストロングSPORTS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuel_tv.png",FUEL TV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_34.png",ムビドラTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_61" tvg-name="しまじろうチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_61.png",しまじろうチャンネル
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png",that’s 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png",that’s 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png",that’s 90s00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_rock.png",that’s Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_74" tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png",麻雀
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_35" tvg-name="パチンコ・パチスロ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_35.png",パチンコ・パチスロ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_113.png",ぷれいば！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_86.png",ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_114" tvg-name="九州・沖縄　街ネタ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_114.png",九州・沖縄　街ネタ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_37" tvg-name="エンタメ～テレDEEP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_37.png",エンタメ～テレDEEP
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/new_kpop.png",NEW KPOP
+https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="CH.525" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC (CS)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="CH.527" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV (CS)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_98" tvg-name="セクシーエンタメチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_98.png",セクシーエンタメチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_40" tvg-name="刺激ストロング" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_40.png",刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_42.png",映画（年齢制限あり）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
+#FAST
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",ビジネス・プレミアム (FAST)
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",エンタメニュース (FAST)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png",時代劇TV (FAST)
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png",LeminoTV (FAST)
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png",ペットTV (FAST)
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png",ぴあ落語ざんまい (FAST)
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png",FASHIONPLUS (FAST)
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png",囲碁・将棋ライト (FAST)
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png",丸ごと北海道 (FAST)
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png",東海ロキポ (FAST)
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
 #EXTINF:-1 tvg-name="Россия Brazzers TV"  tvg-id="Россия Brazzers TV" group-title="etc",Россия Brazzers TV
 http://162.19.243.184:8080/705/manifest.m3u8?token=S76379DB41
 #EXTINF:-1 tvg-name="Россия Penthouse Gold HD"  tvg-id="Россия Penthouse Gold HD" group-title="etc",Россия Penthouse Gold HD
@@ -255,151 +406,3 @@ http://162.19.243.184:8080/703/manifest.m3u8?token=S76379DB41
 http://162.19.243.184:8080/711/manifest.m3u8?token=S76379DB41
 #EXTINF:-1 tvg-name="Россия Vixen"  tvg-id="Россия Vixen" group-title="etc",Россия Vixen
 http://162.19.243.184:8080/708/manifest.m3u8?token=S76379DB41
-
-#Drama 
-#EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV Star Trek (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="MoreStarTrek.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV More Star Trek (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV Star Trek 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2049e0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5c84cd3-495f-49d7-8e48-a79af0d219fc 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV Star Trek 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c847-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a6a858-02cb-46eb-b638-af9576cf28a8 
-#EXTINF:-1 tvg-id="PlutoTVStarTrek.de" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Pluto TV Star Trek 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3329cc1b-d91f-4194-b516-92fbd807049b 
-#EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/startrek.png" group-title="Drama",Star Trek 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cohzi1516.s322.xrea.com/usa/tng.png" group-title="Drama",Star Trek 2 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cohzi1516.s322.xrea.com/usa/ds9.png" group-title="Drama",Star Trek Deep Space Nine 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cohzi1516.s322.xrea.com/usa/voy.png" group-title="Drama",Star Trek Voyager 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7 
-#EXTINF:-1 tvg-id="90210.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/90210.png" group-title="Drama",Pluto TV 90120 (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="MissionImpossible.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/missionImpossible.png" group-title="Drama",Pluto TV Mission: Impossible (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/paramount.jpg" group-title="Drama",Paramount Plus Picks (720p) 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId= 
-#Animation 
-#EXTINF:-1 tvg-name="Yamato Animation" tvg-logo="http://cohzi1516.s322.xrea.com/usa/yamato.png" group-title="Animation",1 Yamato Animation [Italia] 
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8 
-#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/anime.png" group-title="Animation",2 Pluto TV Anime All Day [Italia] (720p) 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId= 
-#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/onepiece.png" group-title="Animation",3 Pluto TV One Piece [Italia] (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="Naruto.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/naruto.png" group-title="Animation",4 Pluto TV NARUTO [Italia] (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#Music 
-#EXTINF:-1 tvg-name="Now 70s" tvg-logo="http://cohzi1516.s322.xrea.com/usa/now70.png" tvg-id="Now70s.uk" group-title="Music",Now 70s 
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-name="Now 80s" tvg-logo="http://cohzi1516.s322.xrea.com/usa/now80.png" tvg-id="Now80s.uk" group-title="Music",Now 80s 
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-name="Now Rock" tvg-logo="http://cohzi1516.s322.xrea.com/usa/nowrock.png" tvg-id="NowRock.uk" group-title="Music",Now Rock 
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-name="true school hip-hop[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="" group-title="Music",true school hip-hop[geo-blocked] 
-https://stream1.freetv.fun/vevo-true-school-hip-hop-1.m3u8 
-#EXTINF:-1 tvg-name="retro rock[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="retro rock[geo-blocked]" group-title="Music",retro rock[geo-blocked] https://stream1.freetv.fun/vevo-retro-rock-2.m3u8 
-#EXTINF:-1 tvg-name="'70s[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="'70s[geo-blocked]" group-title="Music",'70s[geo-blocked] 
-https://stream1.freetv.fun/vevo--70s-3.m3u8 
-#EXTINF:-1 tvg-name="'80s[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="'80s[geo-blocked]" group-title="Music",'80s[geo-blocked] 
-https://stream1.freetv.fun/vevo--80s-2.m3u8 
-#EXTINF:-1 tvg-name="'90s[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="'90s[geo-blocked]" group-title="Music",'90s[geo-blocked] 
-https://stream1.freetv.fun/vevo--90s-2.m3u8 
-#EXTINF:-1 tvg-name="2k[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="2k[geo-blocked]" group-title="Music",2k[geo-blocked] 
-https://stream1.freetv.fun/vevo-2k-2.m3u8 
-#EXTINF:-1 tvg-name="pop[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="pop[geo-blocked]" group-title="Music",pop[geo-blocked] 
-https://stream1.freetv.fun/vevo-pop-4.m3u8 
-#EXTINF:-1 tvg-name="r&b[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="r&b[geo-blocked]" group-title="Music",r&b[geo-blocked] 
-https://stream1.freetv.fun/vevo-r-b-3.m3u8 
-#EXTINF:-1 tvg-name="2k[geo-blocked]" tvg-logo="http://cohzi1516.s322.xrea.com/usa/vevo.png" tvg-id="2k[geo-blocked]" group-title="Music",2k[geo-blocked] 
-https://stream1.freetv.fun/vevo-2k-1.m3u8 
-#Movies 
-#EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/70s.png" group-title="Movies",Pluto TV 70s Cinema (684p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/80s.png" group-title="Movies",Pluto TV 80s Rewind (720p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="http://cohzi1516.s322.xrea.com/usa/90s.png" group-title="Movies",Pluto TV 90s Throwback (684p) 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
-#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="http://cohzi1516.s322.xrea.com/usa/moviechannel.png" group-title="Movies",Paramount Movie Channel 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false 
-#EXTINF:-1 tvg-name="Classic Movies" tvg-logo="http://cohzi1516.s322.xrea.com/usa/classicmovies.png" group-title="Movies",Classic Movies 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="abema-news" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/abema-news.png",ABEMA NEWSチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="news-plus" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/news-plus.png",ABEMA NEWS会見チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="abema-special" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/abema-special.png",ABEMA SPECIALチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="special-plus" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/special-plus.png",ABEMA SPECIAL 2チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="special-plus-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/special-plus-2.png",ABEMA SPECIAL 3チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="drama" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/drama.png",ドラマ映画チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="drama-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/drama-2.png",ドラマ映画チャンネル2 
-https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="mahjong" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/mahjong.png",麻雀チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="shogi" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/shogi.png",将棋チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="rally-japan" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/rally-japan.png",ラリージャパンチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/rally-japan/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="world-sports" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/world-sports.png",SPORTSチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="world-sports-1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/world-sports-1.png",SPORTS LIVE1 チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/world-sports-1/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="sumo" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/sumo.png",大相撲チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="fighting-sports" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/fighting-sports.png",格闘チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="fighting-sports2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/fighting-sports2.png",格闘 2チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="hiphop" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/hiphop.png",HIPHOPチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="commercial" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/commercial.png",CMチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="boatrace" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/boatrace.png",BOATRACEチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="keirin-auto" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/keirin-auto.png",競輪・オートレースチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="abema-anime" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/abema-anime.png",ABEMA アニメチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="abema-anime-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/abema-anime-2.png",ABEMA アニメチャンネル2 
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="special-plus-7" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/special-plus-7.png",アニメSPECIALチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="anime-special-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/anime-special-2.png",アニメSPECIAL2チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="family-anime-1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/family-anime-1.png",ファミリーアニメ 
-https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="family-anime-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/family-anime-2.png",ファミリーアニメ２ 
-https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="isekai-anime" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/isekai-anime.png",異世界・ファンタジーアニメチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="isekai-anime-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/isekai-anime-2.png",異世界・ファンタジーアニメ2チャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="80s-anime-1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/80s-anime-1.png",なつかしアニメ80's 
-https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="90s-anime-1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/90s-anime-1.png",なつかしアニメ90's 
-https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="00s-anime-1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/00s-anime-1.png",なつかしアニメ00's 
-https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="precure" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/precure.png",プリキュアチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/precure/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="atashinchi" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/atashinchi.png",あたしンちチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="anime-live" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/anime-live.png",アニメLIVEチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="lovecomedy-anime" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/lovecomedy-anime.png",ラブコメアニメチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="dailylife-anime" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/dailylife-anime.png",日常・青春アニメチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8 #EXTINF:-1 group-title="Abema 240p" tvg-id="late-night-anime" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/late-night-anime.png",深夜アニメチャンネル https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="asia-drama" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/asia-drama.png",韓国・中国ドラマチャンネル 
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="asia-love-comedy" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/asia-love-comedy.png",韓国ラブコメディ 
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="asia-loveromance" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/asia-loveromance.png",韓国ラブロマンス 
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-loveromance/playlist.m3u8 #EXTINF:-1 group-title="Abema 240p" tvg-id="asia-historical" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/asia-historical.png",韓国時代劇 https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8 
-#EXTINF:-1 group-title="Abema 240p" tvg-id="asia-drama-2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/asia-drama-2.png",韓国・中国ドラマチャンネル2 
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8 #EXTINF:-1 group-title="Abema 240p" tvg-id="k-world" tvg-logo="http://cohzi1516.s322.xrea.com/logo/abema/k-world.png",K WORLDチャンネル https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
