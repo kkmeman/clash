@@ -22,19 +22,19 @@ http://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls 
 #Osaka 
 #EXTINF:-1 group-title="Osaka" tvg-id="nhkgosaka" tvg-name="NHK総合・大阪" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKGO.png", CH-02 NHK G 大阪 
-http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying 
+http://haru.charandom.blog/stream/jp/nhk_gosaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="毎日テレビ_jp" tvg-name="毎日テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/MBS.png", CH-04 毎日放送 
-http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying 
+http://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="abc" tvg-name="ABCテレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/ABC.png", CH-06 朝日放送 
-http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying 
+http://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="kansai_tv" tvg-name="関西テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/KTV.png", CH-08 関西テレビ 
-http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying 
+http://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="Osaka" tvg-id="yormuri_tv" tvg-name="読売テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/YTV.png", CH-10 読売テレビ 
-http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying 
+http://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="tv_osaka" tvg-name="テレビ大阪" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TVO.png", CH-07 テレビ大阪 
-http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying 
+http://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="Osaka" tvg-id="sun_tv" tvg-name="サンテレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/SUNTV.png", CH-03 サンテレビ 
-http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying 
+http://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Osaka" tvg-id="KBS" tvg-name="KBS京都" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/kbskyoto.png", CH-03 KBS京都 
 http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls 
 #BS 
