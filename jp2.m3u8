@@ -115,10 +115,14 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
 #EXTINF:-1 group-title="BS" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-265.png",BS Yoshimoto 
 https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls 
 #CS 
-#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-name="東映チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-218.jpg", CS-218 東映チャンネル 
+#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-name="東映チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-218.jpg", CS-218 東映チャンネル
+http://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/cs218/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/toei/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27 
 #EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-name="衛星劇場" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-219.png", CS-219 衛星劇場 
-http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying 
+http://haru.charandom.blog/stream/jp/eigeki/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-name="映画・チャンネルNECO" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-223.png", CS-223 チャンネルNECO 
 http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-name="The Cinema" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-227.png", CS-227 ザ・シネマ 
