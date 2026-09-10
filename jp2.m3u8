@@ -204,25 +204,28 @@ http://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/discovery/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="animal_planet" tvg-name="アニマルプラネット" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-341.png", CS-341 アニマルプラネット 
-http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=cs24&channel=zhongying 
+http://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="history" tvg-name="ヒストリーチャンネル 日本・世界の歴史＆エンタメ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-342.png", CS-342 ヒストリーチャンネル 
-http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying 
+http://haru.charandom.blog/stream/jp/history_channel/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="nat_geo" tvg-name="ナショナル ジオグラフィック" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-343.png", CS-343 ナショジオ 
-http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying 
+http://haru.charandom.blog/stream/jp/national_geographic/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/nat_geo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="ntv_news24" tvg-name="日テレNEWS24" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-349.png", CS-349 日テレNEWS24 
 http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-name="TBS NEWS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-351.png", CS-351 TBS NEWS 
-http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying 
+http://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-name="ＢＢＣニュース" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-353.png", CS-353 BBC NEWS 
-http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying 
+http://haru.charandom.blog/stream/jp/bbc_news/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-name="CNNj" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-354.png", CS-354 CNN J 
-http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying 
+http://haru.charandom.blog/stream/jp/cnnj/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="Sport Live Plus" tvg-name="Sport Live Plus" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-800.png", CS-800 Sport Live Plus 
-http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/sports_live_plus/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/sportslive/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="NHKWorldJapan.jp" tvg-name="NHKWORLDJAPAN" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/NHKWorld.png", NHKWorld 
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8 
 #EXTINF:-1 group-title="CS" tvg-id="tabi_ch" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/TABIChannel.png", 旅Channel 
-http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying 
+http://haru.charandom.blog/stream/jp/tabi_ch/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="Weathernews" tvg-name="ウェザーニュースLiVE" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/Weathernews.png", Weathernews 
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8 
 #ラクテンTV
