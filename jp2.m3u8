@@ -128,9 +128,9 @@ http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-name="The Cinema" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-227.png", CS-227 ザ・シネマ 
 http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-name="ムービープラス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-240.jpg", CS-240 ムービープラス 
-http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying 
+http://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-name="スカイA" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-250.png", CS-250 スカイA 
-http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying 
+http://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-name="GAORA SPORTS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-254.png", CS-254 GAORA 
 http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying 
 #EXTINF:-1 group-title="CS" tvg-id="gtasu" tvg-name="日テレジータス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-257.jpg", CS-257 日テレジータス 
