@@ -101,7 +101,6 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-name="J SPORTS 4" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-245.png", BS-245 JSPORTS 4 
 http://haru.charandom.blog/stream/jp/jsports_4/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="tsuri_vision" tvg-name="ＢＳ釣りビジョン" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-251.png", BS-251 釣りビジョン 
-http://haru.charandom.blog/stream/jp/bs_tsuri/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-name="日本映画専門チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-255.jpg", BS-255 日本映画専門チャンネル 
 http://haru.charandom.blog/stream/jp/nihon_eiga/stream-output.m3u8?mode=hls 
@@ -117,8 +116,6 @@ https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 #CS 
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-name="東映チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-218.jpg", CS-218 東映チャンネル
 http://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
-http://haru.charandom.blog/stream/jp/cs218/stream-output.m3u8?mode=hls
-http://haru.charandom.blog/stream/jp/toei/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27 
 #EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-name="衛星劇場" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-219.png", CS-219 衛星劇場 
 http://haru.charandom.blog/stream/jp/eigeki/stream-output.m3u8?mode=hls
@@ -132,7 +129,7 @@ http://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-name="スカイA" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-250.png", CS-250 スカイA 
 http://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-name="GAORA SPORTS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-254.png", CS-254 GAORA 
-http://haru.charandom.blog/stream/jp/gaora/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="gtasu" tvg-name="日テレジータス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-257.jpg", CS-257 日テレジータス 
 http://haru.charandom.blog/stream/jp/gtasu/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-262.png", CS-262 GOLF NETWORK 
@@ -160,7 +157,7 @@ http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=
 #EXTINF:-1 group-title="CS" tvg-id="Nittele Plus" tvg-name="日テレプラス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-300.png", CS-300 日テレプラス 
 http://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="ginga_channel" tvg-name="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-305.jpg", CS-305 チャンネル銀河 
-http://haru.charandom.blog/stream/jp/ginga_channel/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/ginga/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29 
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-name="フジテレビＯＮＥ スポーツ・バラエティ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-307.png", CS-307 フジテレビ ONE 
 http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls 
