@@ -46,7 +46,8 @@ http://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls 
 #BS 
 #EXTINF:-1 group-title="BS" tvg-id="NHKBS.jp" tvg-name="NHK・BS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101.png", BS-101 NHK BS 
-http://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
 #EXTINF:-1 group-title="BS" tvg-id="NHK BS(Sub Ch.)" tvg-name="NHK・BS(Sub Ch.)" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101.png", BS-102 NHK BS(Sub Ch.) 
 http://haru.charandom.blog/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-name="NHK・BSP" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101-2.png", BS-101 NHK BSP4K 
@@ -71,6 +72,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
 http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-name="ＷＯＷＯＷプライム" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-191.png", BS-191 WOWOW プライム 
 http://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-name="ＷＯＷＯＷライブ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-192.png", BS-192 WOWOW ライブ 
 http://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
@@ -88,25 +90,32 @@ http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-name="グリーンチャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-234.jpg", BS-234 グリーンチャンネル 
 http://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-name="アニマックス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-236.png", BS-236 BSアニマックス 
 http://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-name="J SPORTS 1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-242.png", BS-242 JSPORTS 1 
-http://haru.charandom.blog/stream/jp/j_sports_1/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/j_sports_1/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-name="J SPORTS 2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-243.png", BS-243 JSPORTS 2 
 http://haru.charandom.blog/stream/jp/jsports_2/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
 #EXTINF:-1 group-title="BS" tvg-id="js3" tvg-name="J SPORTS 3" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-244.png", BS-244 JSPORTS 3
 http://haru.charandom.blog/stream/jp/jsports_3/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-name="J SPORTS 4" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-245.png", BS-245 JSPORTS 4 
-http://haru.charandom.blog/stream/jp/jsports_4/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/jsports_4/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 #EXTINF:-1 group-title="BS" tvg-id="tsuri_vision" tvg-name="ＢＳ釣りビジョン" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-251.png", BS-251 釣りビジョン 
 http://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-name="日本映画専門チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-255.jpg", BS-255 日本映画専門チャンネル 
 http://haru.charandom.blog/stream/jp/bs_nihon_eiga/stream-output.m3u8?mode=hls 
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="disney_ch" tvg-name="ディズニー･チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-256.png", BS-256 Disney Channel 
 http://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/bs_disney/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/disney/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
 #EXTINF:-1 group-title="BS" tvg-id="bs_shochiku_tokyu" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-260.jpg",BS-260 J:COM BS 
 http://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31 
