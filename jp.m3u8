@@ -46,10 +46,6 @@ https://nhk.lls.pbs.org/index.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 #EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="https://i.imgur.com/uvPpFo5.png" tvg-id="NHKBSP4K.jp" tvg-chno="BS4K101" tvg-country="JP" group-title="日本 / Japan",NHK BSP4K
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
-https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
-https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
-wss://nx-jikkyo.tsukumijima.net/api/v1/channels/jk103/ws/watch
-https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt:1
 #EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/26ATUNc.png" tvg-id="BSNipponTV.jp" tvg-chno="BS141" tvg-country="JP" group-title="日本 / Japan",BS日テレ
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 #EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://i.imgur.com/Cl68ZMA.png" tvg-id="BSAsahi.jp" tvg-chno="BS151" tvg-country="JP" group-title="日本 / Japan",BS朝日
