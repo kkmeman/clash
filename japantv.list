@@ -2,6 +2,7 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 12
 # TOTAL: 13
+DST-PORT,5002
 DOMAIN-SUFFIX,amagi.tv
 DOMAIN-SUFFIX,skyperfectv.co.jp
 DOMAIN-SUFFIX,rakuten.co.jp
@@ -25,4 +26,4 @@ DOMAIN-SUFFIX,ads.its-newid.net
 DOMAIN-SUFFIX,netgenx.site 
 DOMAIN-KEYWORD,netgenx 
 DOMAIN-KEYWORD,mov3
-DST-PORT,5002
+
