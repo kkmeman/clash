@@ -175,7 +175,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
 http://haru.charandom.blog/stream/jp/homedrama_channel/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondotv" tvg-name="MONDO TV" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-295.png", CS-295 MONDO TV 
-http://haru.charandom.blog/stream/jp/mondotv/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-name="ＴＢＳチャンネル１ 最新ドラマ・音楽・映画" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-296.png", CS-296 TBSチャンネル1 
 http://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls 
