@@ -157,7 +157,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8
 http://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="gtasu" tvg-name="日テレジータス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-257.jpg", CS-257 日テレジータス 
-http://haru.charandom.blog/stream/jp/gtasu/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/ntv_g_tasu/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs02#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-262.png", CS-262 GOLF NETWORK 
 http://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls
@@ -169,7 +169,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
 http://haru.charandom.blog/stream/jp/jidaigeki/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-name="ファミリー劇場" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-293.jpg", CS-293 ファミリー劇場 
-http://haru.charandom.blog/stream/jp/family_geki/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/family_gekijo/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="homedrama_channel" tvg-name="ホームドラマチャンネル　韓流・時代劇・国内ドラマ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-294.jpg", CS-294 ホームドラマチャンネル 
 http://haru.charandom.blog/stream/jp/homedrama_channel/stream-output.m3u8?mode=hls
@@ -243,7 +243,6 @@ http://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="nat_geo" tvg-name="ナショナル ジオグラフィック" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-343.png", CS-343 ナショジオ 
 http://haru.charandom.blog/stream/jp/national_geographic/stream-output.m3u8?mode=hls
-http://haru.charandom.blog/stream/jp/nat_geo/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs10#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ntv_news24" tvg-name="日テレNEWS24" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-349.png", CS-349 日テレNEWS24 
 http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls 
