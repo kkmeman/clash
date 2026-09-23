@@ -111,7 +111,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
 http://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-name="J SPORTS 1" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-242.png", BS-242 JSPORTS 1 
-http://haru.charandom.blog/stream/jp/J_SPORTS_1/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/js1/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-name="J SPORTS 2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-243.png", BS-243 JSPORTS 2 
 http://haru.charandom.blog/stream/jp/js2/stream-output.m3u8?mode=hls
@@ -126,7 +126,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 http://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-name="日本映画専門チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-255.jpg", BS-255 日本映画専門チャンネル 
-http://haru.charandom.blog/stream/jp/bs_nihon_eiga/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/nihon_eiga/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="disney_ch" tvg-name="ディズニー･チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-256.png", BS-256 Disney Channel 
 http://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
@@ -262,7 +262,7 @@ http://haru.charandom.blog/stream/jp/sportslive/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="NHKWorldJapan.jp" tvg-name="NHKWORLDJAPAN" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/NHKWorld.png", NHKWorld 
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8 
 #EXTINF:-1 group-title="CS" tvg-id="tabi_ch" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/TABIChannel.png", 旅Channel 
-http://haru.charandom.blog/stream/jp/tabi_ch/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Weathernews" tvg-name="ウェザーニュースLiVE" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/Weathernews.png", Weathernews 
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8 
