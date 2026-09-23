@@ -172,7 +172,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
 http://haru.charandom.blog/stream/jp/family_gekijo/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="homedrama_channel" tvg-name="ホームドラマチャンネル　韓流・時代劇・国内ドラマ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-294.jpg", CS-294 ホームドラマチャンネル 
-http://haru.charandom.blog/stream/jp/homedrama_channel/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondotv" tvg-name="MONDO TV" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-295.png", CS-295 MONDO TV 
 http://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
@@ -256,7 +256,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
 http://haru.charandom.blog/stream/jp/cnnj/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Sport Live Plus" tvg-name="Sport Live Plus" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-800.png", CS-800 Sport Live Plus 
-http://haru.charandom.blog/stream/jp/sports_live_plus/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/sportslive/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="NHKWorldJapan.jp" tvg-name="NHKWORLDJAPAN" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/NHKWorld.png", NHKWorld 
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8 
