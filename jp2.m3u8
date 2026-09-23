@@ -188,7 +188,7 @@ http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=
 #EXTINF:-1 group-title="CS" tvg-id="Nittele Plus" tvg-name="日テレプラス" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-300.png", CS-300 日テレプラス 
 http://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="CS" tvg-id="ginga_channel" tvg-name="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-305.jpg", CS-305 チャンネル銀河 
-http://haru.charandom.blog/stream/jp/ginga/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29 
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-name="フジテレビＯＮＥ スポーツ・バラエティ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-307.png", CS-307 フジテレビ ONE 
 http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls 
