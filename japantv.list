@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,regzatv.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,log-track-lb.prod.wod.play.jp
+DOMAIN-KEYWORD,wowow
 DOMAIN-KEYWORD,rakuten
 DOMAIN-KEYWORD,fastv
 DOMAIN-KEYWORD,fastv-v2
