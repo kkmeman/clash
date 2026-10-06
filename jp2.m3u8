@@ -264,6 +264,11 @@ http://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Weathernews" tvg-name="ウェザーニュースLiVE" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/Weathernews.png", Weathernews 
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8 
+#EXTINF:-1 group-title="CS" tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
+http://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
+http://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+
 #ラクテンTV
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
