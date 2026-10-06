@@ -166,7 +166,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8
 http://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28 
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-name="時代劇専門チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-292.jpg", CS-292 時代劇専門チャンネル 
-http://haru.charandom.blog/stream/jp/jidaigeki/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-name="ファミリー劇場" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-293.jpg", CS-293 ファミリー劇場 
 http://haru.charandom.blog/stream/jp/family_gekijo/stream-output.m3u8?mode=hls 
