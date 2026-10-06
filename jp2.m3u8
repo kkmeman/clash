@@ -10,7 +10,7 @@ http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=h
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOABDTV.jp" tvg-name="NHK東京・教育" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKE.png", CH-02 NHK E 
 http://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-name="日本テレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/Nippon_TV.png", CH-04 日本テレビ 
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-name="日本テレビ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png", CH-04 日本テレビ 
 http://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
 https://ntv5.mov3.co/hls/ntv.m3u8
@@ -126,7 +126,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 http://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-name="日本映画専門チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-255.jpg", BS-255 日本映画専門チャンネル 
-http://haru.charandom.blog/stream/jp/nihon_eiga/stream-output.m3u8?mode=hls 
+http://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="disney_ch" tvg-name="ディズニー･チャンネル" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-256.png", BS-256 Disney Channel 
 http://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
