@@ -1,36 +1,36 @@
 #EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1 
 #Tokyo 
-#EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-name="NHK東京・総合" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKG.png", CH-01 NHK G 
+#EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-name="NHK東京・総合" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png", CH-01 NHK G 
 http://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHK G (Sub Ch.)" tvg-name="NHK東京・総合Sub" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKG.png", CH-01 NHK G (Sub Ch.) 
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK G (Sub Ch.)" tvg-name="NHK東京・総合Sub" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png", CH-01 NHK G (Sub Ch.) 
 http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls 
-#EXTINF:-1 group-title="Tokyo" tvg-id="JOABDTV.jp" tvg-name="NHK東京・教育" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/NHKE.png", CH-02 NHK E 
+#EXTINF:-1 group-title="Tokyo" tvg-id="JOABDTV.jp" tvg-name="NHK東京・教育" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png", CH-02 NHK E 
 http://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-name="日本テレビ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png", CH-04 日本テレビ 
 http://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-name="テレビ朝日" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TV_Asahi.png", CH-05 テレビ朝日 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-name="テレビ朝日" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png", CH-05 テレビ朝日 
 http://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-name="TBS" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TBS.png", CH-06 ＴＢＳ 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png", CH-06 ＴＢＳ 
 http://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-name="フジテレビ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/Fuji_TV.png", CH-08 フジテレビ 
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-name="フジテレビ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png", CH-08 フジテレビ 
 http://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-name="テレビ東京" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TV_Tokyo.png", CH-07 テレビ東京 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-name="テレビ東京" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png", CH-07 テレビ東京 
 http://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX1.jp" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TokyoMX.png", CH-091 TOKYO MX1 
+#EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX1.jp" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png", CH-091 TOKYO MX1 
 http://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO MX2" tvg-logo="http://cohzi1516.s322.xrea.com/logo/digi/TokyoMX.png", CH-092 TOKYO MX2 
@@ -221,7 +221,7 @@ http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-name="キッズステーション テレビアニメ･劇場版･ＯＶＡ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-330.jpg", CS-330 キッズステーション 
-http://haru.charandom.blog/stream/jp/kids_station/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/Kids_Station/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-name="カートゥーン ネットワーク 海外アニメ国内アニメ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-331.png", CS-331 CARTOON NETWORK 
 http://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls 
