@@ -26,7 +26,7 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 http://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-name="テレビ東京" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png", CH-07 テレビ東京 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-name="テレビ東京" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", CH-07 テレビ東京 
 http://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
@@ -78,7 +78,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-name="ＢＳ－ＴＢＳ" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-161.png", BS-161 BS-TBS 
 http://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
-#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo" tvg-name="BSテレ東" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-171.png", BS-171 BSテレ東 
+#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo" tvg-name="BSテレ東" tvg-logo="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png", BS-171 BSテレ東 
 http://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-name="ＢＳフジ・181" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-181.png", BS-181 BSフジ 
