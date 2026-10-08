@@ -85,15 +85,15 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
 http://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
 
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv_4k" tvg-name="ＢＳ日テレ4k" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/bs4k141.png", BS日テレ4k
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv_4k" tvg-name="ＢＳ日テレ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv_4k.png", BS日テレ4k
 http://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls 
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi_4k" tvg-name="ＢＳ朝日4k" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/bs4k151.png",BS朝日4k 
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi_4k" tvg-name="ＢＳ朝日4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi_4k.png",BS朝日4k 
 http://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs_4k" tvg-name="ＢＳ－ＴＢＳ4k" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/bs4k161.png",BS-TBS4k 
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs_4k" tvg-name="ＢＳ－ＴＢＳ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs_4k.png",BS-TBS4k 
 http://haru.charandom.blog/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo_4k" tvg-name="BSテレ東4k" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/bs4k171.png",BSテレ東4k 
+#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo_4k" tvg-name="BSテレ東4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tvtokyo_4k.png",BSテレ東4k 
 http://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji_4k" tvg-name="ＢＳフジ4k" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/bs4k181.png",BSフジ4k 
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji_4k" tvg-name="ＢＳフジ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji_4k.png",BSフジ4k 
 http://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="BS" tvg-id="WOWOW Plus" tvg-name="ＷＯＷＯＷプラス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW プラス 
