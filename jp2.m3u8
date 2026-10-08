@@ -93,7 +93,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-name="ＷＯＷＯＷシネマ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png", WOWOW シネマ 
 http://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
-#EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-name="NHK・BSP" tvg-logo="http://cohzi1516.s322.xrea.com/logo/BS/BS-101-2.png",NHK BSP4K 
+#EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-name="NHK・BSP" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/nhk_bs_4k.jpg",NHK BSP4K 
 http://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv_4k" tvg-name="ＢＳ日テレ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv_4k.png", BS日テレ4K
@@ -102,7 +102,7 @@ http://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs_4k" tvg-name="ＢＳ－ＴＢＳ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs_4k.png",BS-TBS4K 
 http://haru.charandom.blog/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo_4k" tvg-name="BSテレ東4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo_4k.png",BSテレ東4K 
+#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo_4k" tvg-name="BSテレ東4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BSテレ東4K 
 http://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji_4k" tvg-name="ＢＳフジ4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_fuji_4k.jpg",BSフジ4K 
 http://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
