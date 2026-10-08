@@ -102,9 +102,9 @@ http://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
 http://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs_4k" tvg-name="ＢＳ－ＴＢＳ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs_4k.png",BS-TBS4k 
 http://haru.charandom.blog/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo_4k" tvg-name="BSテレ東4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tvtokyo_4k.png",BSテレ東4k 
+#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo_4k" tvg-name="BSテレ東4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo_4k.png",BSテレ東4k 
 http://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji_4k" tvg-name="ＢＳフジ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji_4k.png",BSフジ4k 
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji_4k" tvg-name="ＢＳフジ4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_fuji_4k.jpg",BSフジ4k 
 http://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
 
 
