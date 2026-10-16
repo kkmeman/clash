@@ -96,6 +96,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
 #EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-name="NHK・BSP" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/nhk_bs_4k.jpg",NHK BSP4K 
 http://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls 
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
+https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv_4k" tvg-name="ＢＳ日テレ4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv_4k.png", BS日テレ4K
 http://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi_4k" tvg-name="ＢＳ朝日4k" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi_4k.png",BS朝日4K 
